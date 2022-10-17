@@ -1,5 +1,5 @@
 # QR-Code-Scanner
-An application that shows the simplest and fastest way to read qr code
+An application that shows the simplest and fastest way to read QRcode and Barcode
 
 Splash Screen<br><br>
 ![Screenshot_20221016-150843_QrCodeScanner](https://user-images.githubusercontent.com/67163842/196036353-6ddb32d4-2fdc-4259-8e7a-ea4990c06d83.jpg)
